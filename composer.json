@@ -1,6 +1,7 @@
 {
   "name": "ueef/base64url",
   "type": "library",
+  "license": "MIT",
   "description": "",
   "config": {
     "vendor-dir": "var/vendor"
